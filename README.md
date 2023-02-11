@@ -6,6 +6,7 @@
 - 笔记的粗细变化
 
 附上一张图作为最低标准参考：
+
 ![demo_svg](https://user-images.githubusercontent.com/9147956/218247997-b8f2c704-bdd6-4df3-be9b-6814d1501848.png)
 
 
