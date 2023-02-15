@@ -6,9 +6,10 @@
 - 笔记的粗细变化(可结合点的分布和压力值)
 - 笔尖初尖(可结合点的分布和压力值)
 
-附上一张图作为最低标准参考：
+附上一张图作为参考标准(第一张图不是我们想要的效果，第二张图是我们想要的最低标准)：
 
-![demo_svg](https://user-images.githubusercontent.com/9147956/218247997-b8f2c704-bdd6-4df3-be9b-6814d1501848.png)
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/9147956/218914270-e866f740-cbc2-4132-822d-2491749952f2.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/9147956/218247997-b8f2c704-bdd6-4df3-be9b-6814d1501848.png">
 
 
 ### 数据描述
